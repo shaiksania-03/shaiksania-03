@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Sania Mirza</h1>
 
 <h3 align="center">CSE Student | Future Software Engineer | Passionate Learner</h3>
@@ -84,4 +84,4 @@
 ---
 
 <h3 align="center">✨ “Code. Learn. Repeat.” ✨</h3>
-```
+
